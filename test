@@ -11,3 +11,8 @@ commitand checkout in existing branch
 commit and checkout in new branch
 feature brach from local repo
 rbase
+<<<<<<< Updated upstream
+=======
+123
+ 
+>>>>>>> Stashed changes
